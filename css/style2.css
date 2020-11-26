@@ -1,0 +1,11 @@
+body{
+	margin: 0 auto;
+	max-width: 1900px;
+}
+h1{
+	font-family: 'Oleo Script', cursive;
+	font-size: 3em;
+	text-align: center;
+	box-shadow: 0 0 2px #cccccc;
+
+}
